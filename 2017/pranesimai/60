@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2017 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="http://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2017/images/favicon.png?v1">
+        <link rel="bookmark" type="image/png" href="/2017/images/favicon.png?v1">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2017/css/compiled/all.css?v1" />
+                            <link rel="stylesheet" href="/2017/css/compiled/main.css?v1" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2017.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2017 | Didžiausias Hackercamp'as Lietuvoje">
+        <meta property="og:description" content="Po atviru dangumi vykstantis renginys, siekiantis suburti įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, įvairaus plauko geek'ai, mokslininkai, konstruktoriai, artistai, menininkai ir kitų sričių specialistai, galintys ir norintys pasidalinti savo žiniomis. Norite sudalyvauti? Pasiimkite savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuokite!">
+        <meta property="og:image" content="/images/basic-sticker.png?v1"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+
+            
+    <body data-controller=""
+          data-action="">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="/2017/images/logo.png?v1">
+                        <img class="logo-title" src="/2017/images/nta_logo.png?v1">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2017/login" class="navbar-btn btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2017/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2017/apie">Apie (LT)</i></a></li>
+                                <li><a href="/2017/about">About (EN)</a></li>
+                                <li><a href="/2017/duk">FAQ (LT)</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2017/pranesimai">Presentations</a></li>
+                                <li><a href="/2017/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://goo.gl/HTIJhT" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2017/kontaktai">Contact Us</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOG</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-10 col-md-offset-1">
+                        <div class="row" >
+        <div class="panel panel-default">
+          <!-- Default panel contents -->
+          <div class="panel-heading">
+            <h1>Machine learning pavyzdžiai, kuriuos lengvai gali pasidaryti pats</h1>
+                                  </div>
+
+          <!-- Table -->
+          <table class="table">
+              <tr>
+                  <td><strong>Speaker</strong></td>
+                  <td>
+                                        Ieva Vaišnoraitė-Navikienė
+                                        &nbsp;
+                                                                                                                                                              </td>
+              </tr>
+              <tr>
+                  <td><strong>Language</strong></td>
+                  <td>LT</td>
+              </tr>
+              <tr>
+                  <td><strong>Stage</strong></td>
+                  <td>Digital</td>
+              </tr>
+              <tr>
+                  <td><strong>Type</strong></td>
+                  <td>Presentation</td>
+              </tr>
+          </table>
+          <div class="panel-heading">Description</div>
+          <div class="panel-body">
+            <p>Trumpai pristatysiu kokius jau apmokytus ML modelius galima atsisiųsti ir kaip juos išnaudoti web aplikacijose. Mašininis mokymasis po truputį tampa labai lengvai prieinamas ir vis paprasčiau implementuojamas. Prezentacija įkvėpta "Hipsterių detektoriaus".</p>
+
+          </div>
+			        </div>
+    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2017/"><img src="/2017/images/logo.png?v1"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2017/js/compiled/all.js?v1"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>
