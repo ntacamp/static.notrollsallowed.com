@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2018 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2018/images/favicon.png?v3">
+        <link rel="bookmark" type="image/png" href="/2018/images/favicon.png?v3">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2018/css/compiled/all.css?v3" />
+                            <link rel="stylesheet" href="/2018/css/compiled/main.css?v3" />
+                            <link rel="stylesheet" href="/2018/css/compiled/md-preview.css?v3" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2018.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2018 | The One Hackercamp of Lithuania">
+        <meta property="og:description" content="No Trolls Allowed is an annual open-air hackercamp where hobbies and arts meet technology and awesomeness.">
+        <meta property="og:image" content="/images/basic-sticker.png?v3"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+
+    <body data-controller="schedule"
+          data-action="talk">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="/2018/images/logo.png?v3">
+                        <img class="logo-title" src="/2018/images/nta_logo.png?v3">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2018/login" class="navbar-btn btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2018/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2018/apie">Apie (LT)</i></a></li>
+                                <li><a href="/2018/about">About (EN)</a></li>
+                                <li><a href="/2018/duk">FAQ (LT)</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2018/pranesimai">Presentations</a></li>
+                                <li><a href="/2018/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://goo.gl/forms/ViU1FcTIvdghuhwv1" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2018/kontaktai">Contact Us</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOG</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-10 col-md-offset-1">
+                        <div class="row" >
+        <div class="panel panel-default">
+          <!-- Default panel contents -->
+          <div class="panel-heading">
+            <h1>TICK stack up and running</h1>
+                                  </div>
+
+          <!-- Table -->
+          <table class="table">
+              <tr>
+                  <td><strong>Speaker</strong></td>
+                  <td>
+                                        Marijus Briedis
+                                        &nbsp;
+                                                                                                                                                                    <a href="https://marijus.kastonai.lt"><img src="/2018/images/icon_homepage.png?v3" alt=""></a>
+                                      </td>
+              </tr>
+              <tr>
+                  <td><strong>Language</strong></td>
+                  <td>LT</td>
+              </tr>
+              <tr>
+                  <td><strong>Stage</strong></td>
+                  <td>Events</td>
+              </tr>
+              <tr>
+                  <td><strong>Type</strong></td>
+                  <td>Workshop</td>
+              </tr>
+          </table>
+          <div class="panel-heading">Description</div>
+          <div class="panel-body">
+            <h1>TICK stack up and running</h1>
+
+<p><img src="https://2bjee8bvp8y263sjpl3xui1a-wpengine.netdna-ssl.com/wp-content/uploads/Tick-Stack-Complete.png" alt="Image" /></p>
+
+<h3>First part of the workshop</h3>
+
+<p>Will be dedicated to theory. We will discuss Time Series Databases, basics of the line protocol and in what cases they are used.  I will present the concepts of the TICK stack and how I am using it in my daily life.</p>
+
+<h3>Second part of the workshop</h3>
+
+<p>We will install the Tick stack and Grafana on Ubuntu/Debian based machine and configure Telegraf for basic reporting. Kapacitor with Chronograf for alerting.</p>
+
+<p>The estimated time for the workshop is <strong>2 hours</strong> minimum.</p>
+
+          </div>
+						<div class="panel panel-default">
+			  <div class="panel-heading">Requirements for attendees</div>
+			  <div class="panel-body">
+				<p>Basic knowledge of Linux is required (You have to know how to install ant configure packets).
+You have to have any kind of virtual environment on Your machine (VirtualBox is recommended) with Ubuntu/Debian server installed.
+Desire for improvement and patience.</p>
+
+			  </div>
+			</div>
+			        </div>
+    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2018/"><img src="/2018/images/logo.png?v3"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2018/js/compiled/all.js?v3"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>

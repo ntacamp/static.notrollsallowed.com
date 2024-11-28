@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2018 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2018/images/favicon.png?v3">
+        <link rel="bookmark" type="image/png" href="/2018/images/favicon.png?v3">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2018/css/compiled/all.css?v3" />
+                            <link rel="stylesheet" href="/2018/css/compiled/main.css?v3" />
+                            <link rel="stylesheet" href="/2018/css/compiled/md-preview.css?v3" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2018.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2018 | The One Hackercamp of Lithuania">
+        <meta property="og:description" content="No Trolls Allowed is an annual open-air hackercamp where hobbies and arts meet technology and awesomeness.">
+        <meta property="og:image" content="/images/basic-sticker.png?v3"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+
+    <body data-controller="schedule"
+          data-action="workshops">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="/2018/images/logo.png?v3">
+                        <img class="logo-title" src="/2018/images/nta_logo.png?v3">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2018/login" class="navbar-btn btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2018/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2018/apie">Apie (LT)</i></a></li>
+                                <li><a href="/2018/about">About (EN)</a></li>
+                                <li><a href="/2018/duk">FAQ (LT)</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2018/pranesimai">Presentations</a></li>
+                                <li><a href="/2018/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://goo.gl/forms/ViU1FcTIvdghuhwv1" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2018/kontaktai">Contact Us</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOG</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-10 col-md-offset-1">
+                        <h1>Workshops & Events</h1>
+
+    <div class="row schedule">
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/201"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Krisjanis Rijnieks" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/201" title="Projection Mapping with the Raspberry Pi">Projection Mapping with the Raspberry Pi</a></h4>
+                            <p><strong>
+                                                                Krisjanis Rijnieks
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/193"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kristina Girčytė" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/193" title="Lazerio projekcija">Lazerio projekcija</a></h4>
+                            <p><strong>
+                                                                Kristina Girčytė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/123"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Antanas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/123" title="Soldering exercises">Soldering exercises</a></h4>
+                            <p><strong>
+                                                                Antanas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/178"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Linas Lazauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/178" title="Gamify your stuff: make a party fun again.">Gamify your stuff: make a party fun again.</a></h4>
+                            <p><strong>
+                                                                Linas Lazauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/181"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Tomas Valaitis" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/181" title="Drone from nature">Drone from nature</a></h4>
+                            <p><strong>
+                                                                Tomas Valaitis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/179"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Justas Ingelevičius" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/179" title="Solar oven workshop">Solar oven workshop</a></h4>
+                            <p><strong>
+                                                                Justas Ingelevičius
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/192"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Melitonas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/192" title="Pick and Place Machine (live demonstration)">Pick and Place Machine (live demonstration)</a></h4>
+                            <p><strong>
+                                                                Melitonas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/128"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Emanuelis Norbutas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/128" title="Sailing workshop">Sailing workshop</a></h4>
+                            <p><strong>
+                                                                Emanuelis Norbutas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/148"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Dmitrij Radin" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/148" title="Microwave the World">Microwave the World</a></h4>
+                            <p><strong>
+                                                                Dmitrij Radin
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/146"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Arnas Kazlauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/146" title="Your first SPA with Vue and Laravel in 15 minutes">Your first SPA with Vue and Laravel in 15 minutes</a></h4>
+                            <p><strong>
+                                                                Arnas Kazlauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/145"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Arvydas Venckus" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/145" title="Galvodaužis 3">Galvodaužis 3</a></h4>
+                            <p><strong>
+                                                                Arvydas Venckus
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/130"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Marijus Briedis" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/130" title="TICK stack up and running">TICK stack up and running</a></h4>
+                            <p><strong>
+                                                                Marijus Briedis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/127"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Rokas Adiklis" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/127" title="Technarium Activities">Technarium Activities</a></h4>
+                            <p><strong>
+                                                                Rokas Adiklis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/125"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Helis LT" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/125" title="Laser fights">Laser fights</a></h4>
+                            <p><strong>
+                                                                Helis LT
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/115"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Karolis Valiulis" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/115" title="Tinklinio mokykla">Tinklinio mokykla</a></h4>
+                            <p><strong>
+                                                                Karolis Valiulis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/29"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Tadas Kleinauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/29" title="Books club">Books club</a></h4>
+                            <p><strong>
+                                                                Tadas Kleinauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/104"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kaunas Makerspace" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/104" title="Ice Cream Machine">Ice Cream Machine</a></h4>
+                            <p><strong>
+                                                                Kaunas Makerspace
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/88"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Rihards Skrubis" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/88" title="Freakbikes, flame thrower bike">Freakbikes, flame thrower bike</a></h4>
+                            <p><strong>
+                                                                Rihards Skrubis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/107"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Artūras Šlajus" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/107" title="Demystifying functional constructs: options, eithers, semigroups and monads">Demystifying functional constructs: options, eithers, semigroups and monads</a></h4>
+                            <p><strong>
+                                                                Artūras Šlajus
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/87"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Daumantas Kalvaitis" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/87" title="CAD/CAM projektavimas">CAD/CAM projektavimas</a></h4>
+                            <p><strong>
+                                                                Daumantas Kalvaitis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/85"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Petras Malinauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/85" title="Let&#039;s put on some shades, &#039;couse shaders are here!">Let&#039;s put on some shades, &#039;couse shaders are here!</a></h4>
+                            <p><strong>
+                                                                Petras Malinauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/83"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Vytautas Valatka" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/83" title="Savistabos praktikos ir įrankiai">Savistabos praktikos ir įrankiai</a></h4>
+                            <p><strong>
+                                                                Vytautas Valatka
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/79"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Adelė Markevičiūtė" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/79" title="Žongliravimas kamuoliukais">Žongliravimas kamuoliukais</a></h4>
+                            <p><strong>
+                                                                Adelė Markevičiūtė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/99"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Andrius Palivonas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/99" title="A simple web-controlled Raspberry Pi robot">A simple web-controlled Raspberry Pi robot</a></h4>
+                            <p><strong>
+                                                                Andrius Palivonas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/100"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kaunas Makerspace" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/100" title="Portable Sauna">Portable Sauna</a></h4>
+                            <p><strong>
+                                                                Kaunas Makerspace
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/101"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kaunas Makerspace" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/101" title="Hot Shower &amp; Tub">Hot Shower &amp; Tub</a></h4>
+                            <p><strong>
+                                                                Kaunas Makerspace
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/102"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kaunas Makerspace" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/102" title="TIG Welding Workshop">TIG Welding Workshop</a></h4>
+                            <p><strong>
+                                                                Kaunas Makerspace
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/103"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kaunas Makerspace" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/103" title="Gaming Briefcase">Gaming Briefcase</a></h4>
+                            <p><strong>
+                                                                Kaunas Makerspace
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/67"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Karolis Misevicius" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/67" title="Looping sounds and making music">Looping sounds and making music</a></h4>
+                            <p><strong>
+                                                                Karolis Misevicius
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/59"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Martynas Jočys" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/59" title="Kaip formuluoti norus, kad jie išsipildytų?">Kaip formuluoti norus, kad jie išsipildytų?</a></h4>
+                            <p><strong>
+                                                                Martynas Jočys
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/58"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Emilis Jonušauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/58" title="Flowerstick making and juggling workshop">Flowerstick making and juggling workshop</a></h4>
+                            <p><strong>
+                                                                Emilis Jonušauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/5"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Simonas Vitkūnas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/5" title="NTA Puzzle Hunt">NTA Puzzle Hunt</a></h4>
+                            <p><strong>
+                                                                Simonas Vitkūnas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/38"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Kęstutis Malinauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/38" title="Kodėl tai yra tiesa?">Kodėl tai yra tiesa?</a></h4>
+                            <p><strong>
+                                                                Kęstutis Malinauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/28"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Ričardas Leščinskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/28" title="Polargraph, draw big!">Polargraph, draw big!</a></h4>
+                            <p><strong>
+                                                                Ričardas Leščinskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2018/pranesimai/2"><img src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&amp;r=G&amp;d=https://robohash.org/d41d8cd98f00b204e9800998ecf8427e.png?size=150x150" alt="Marijus Bernotas" class="media-object img-rounded"></a>
+                            <h4><a href="/2018/pranesimai/2" title="Ham radio communication">Ham radio communication</a></h4>
+                            <p><strong>
+                                                                Marijus Bernotas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                
+            </div>
+
+
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2018/"><img src="/2018/images/logo.png?v3"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2018/js/compiled/all.js?v3"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>

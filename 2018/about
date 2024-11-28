@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2018 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2018/images/favicon.png?v3">
+        <link rel="bookmark" type="image/png" href="/2018/images/favicon.png?v3">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2018/css/compiled/all.css?v3" />
+                            <link rel="stylesheet" href="/2018/css/compiled/main.css?v3" />
+                            <link rel="stylesheet" href="/2018/css/compiled/md-preview.css?v3" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2018.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2018 | The One Hackercamp of Lithuania">
+        <meta property="og:description" content="No Trolls Allowed is an annual open-air hackercamp where hobbies and arts meet technology and awesomeness.">
+        <meta property="og:image" content="/images/basic-sticker.png?v3"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+
+    <body data-controller="pages"
+          data-action="aboutEn">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="/2018/images/logo.png?v3">
+                        <img class="logo-title" src="/2018/images/nta_logo.png?v3">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2018/login" class="navbar-btn btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2018/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2018/apie">Apie (LT)</i></a></li>
+                                <li><a href="/2018/about">About (EN)</a></li>
+                                <li><a href="/2018/duk">FAQ (LT)</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2018/pranesimai">Presentations</a></li>
+                                <li><a href="/2018/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://goo.gl/forms/ViU1FcTIvdghuhwv1" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2018/kontaktai">Contact Us</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOG</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-10 col-md-offset-1">
+                    <div class="about-page">
+		
+    <h1>About No Trolls Allowed hackercamp</h1>
+
+	<div class="hacker">
+		<h4>hacker</h4>
+		<strong>/ˈhakə/</strong>
+
+		<p>
+			<small>noun</small><br>
+			<small>noun: <strong>hacker</strong>; plural noun: <strong>hackers</strong></small>
+		</p>
+
+		<ol>
+			<li class="strike">a person who uses computers to gain unauthorized access to data.</li>
+			<li>a person who uses nonconventional methods or tools to achieve something awesome.</li>
+		</ol>
+	</div>
+
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			
+		    <p><strong>No Trolls Allowed</strong> is an open-air festival of hobby, arts, and technology that invites hackers of all natures. Imagine hundreds of passioned people gathering in the nature to share their knowledge and their joy of discovery.</p>
+			
+			<p>
+				<img src="/2018/images/professions.png" alt="Professions">
+			</p>
+		    
+
+		    <p>The camp is free in all the senses of the word: as in a free beer, and as in freedom of speech. However, as the name suggests we aren't very fond of trolls there. That means you have to bring something in and your ticket to the camp is your participation. The form of participation is totally up to you:
+		    </p>
+
+		    <ul>
+		    	<li>The main and easiest way is to make a presentation in any form. Presentations are the nail of the camp and happen for entire two/three days in four stages on site. You'll have an opportunity to choose the most convenient time and stage for you if it's not taken already. Just remember, you are here to share your passion and awesome things you know. We prefer you won't talk about boring job stuff you do every day and definitely no commercial presentations.</li>
+		    	<li>Do a workshop. You can do a workshop of any kind, starting from artsy like drawing lessons or karate practice to techy rockets, genetically engineered monsters, and space dogs. We would like you to go nuts here. And if you need some help, space, or equipment - just let us know.</li>
+		    	<li>Join our awesome Crew as a volunteer. There are many awesome perks you receive beeing a volunteer, but you know that with the power also comes responsibility. More information on that is <a href="http://blog.notrollsallowed.com/post/172890271774/no-trolls-allowed-wants-you" target="_blank">on this blog post</a></li>
+		    </ul>
+
+		    <p>If you wonder if the camp invites international crowd as well, no worries. We are a global community and open to those who want to give a presentation or workshop in any language (of course English is preferred). While there will be plenty of presentations in Lithuanian which may pose a challenge if you are not good at it. Although as our experience show - it is easy for most, if not all, to switch over to English for Q&A, or at least for a discussion.</p>
+
+			<p>If you have trouble with <a href="/2018/t/register">registration form</a> it never gets easier than writing an email, to <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>. Or just say hi on a Facebook page...</p>
+
+			<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNoTrollsAllowed%2F&tabs=messages&width=500&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1796467907334809" width="500" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+		</div>
+	</div>
+
+
+
+</div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2018/"><img src="/2018/images/logo.png?v3"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2018/js/compiled/all.js?v3"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>
