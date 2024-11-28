@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2016 | Pirmas ir vienintelis Hackercamp'as Lietuvoje!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="NTA1" description="LAUGHITUPFUZZBALL">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="http://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2016/images/favicon.png?v1">
+        <link rel="bookmark" type="image/png" href="/2016/images/favicon.png?v1">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2016/css/compiled/all.css?v1" />
+                            <link rel="stylesheet" href="/2016/css/compiled/main.css?v1" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2016.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2016 | Didžiausias Hackercamp'as Lietuvoje">
+        <meta property="og:description" content="Po atviru dangumi vykstantis renginys, siekiantis suburti įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, įvairaus plauko geek'ai, mokslininkai, konstruktoriai, artistai, menininkai ir kitų sričių specialistai, galintys ir norintys pasidalinti savo žiniomis. Norite sudalyvauti? Pasiimkite savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuokite!">
+        <meta property="og:image" content="/images/basic-sticker.png?v1"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+
+                    
+    <body data-controller="Schedule"
+          data-action="workshops">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">
+                        <img src="/2016/images/logo.png?v1">
+                        <img class="logo-title" src="/2016/images/nta_logo.png?v1">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2016/login" class="navbar-btn btn">Prisijungti</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2016/login">Prisijungti</a></li>
+                                                <li class="divider"></li>
+                        <li><a href="/2016/apie">Apie</i></a></li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programa <b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2016/pranesimai">Pranešimai</a></li>
+                                <li><a href="/2016/dirbtuves">Dirbtuvės ir užsiėmimai</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/2016/duk">DUK</a></li>
+                        <li><a href="/2016/kontaktai">Kontaktai</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOG</a></li>
+                        <li><a href="/2016/en">English</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                                    <div class="row">
+                <article class="col-md-10 col-md-offset-1">
+                        <h1>Dirbtuvės ir užsiėmimai</h1>
+
+    <div class="row schedule">
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/166"><img src="http://www.gravatar.com/avatar/994c26d923ffa92071c310374ac03f43?s=150&amp;r=G&amp;d=https://robohash.org/994c26d923ffa92071c310374ac03f43.png?size=150x150" alt="Arnas Petruskevicius" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/166" title="Siena">Siena</a></h4>
+                            <p><strong>
+                                                                Arnas Petruskevicius
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/75"><img src="http://www.gravatar.com/avatar/916c14c33f1b66f0321cba26a56ec317?s=150&amp;r=G&amp;d=https://robohash.org/916c14c33f1b66f0321cba26a56ec317.png?size=150x150" alt="Jovita Talmontienė" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/75" title="Talk Less and Listen More">Talk Less and Listen More</a></h4>
+                            <p><strong>
+                                                                Jovita Talmontienė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/154"><img src="http://www.gravatar.com/avatar/67faa1bc3cc01e5a569b0370c167b52c?s=150&amp;r=G&amp;d=https://robohash.org/67faa1bc3cc01e5a569b0370c167b52c.png?size=150x150" alt="Gintare Pupinyte" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/154" title="Audiovizualinė kelionė - greitas, pigus ir efektyvus būdas patripinti">Audiovizualinė kelionė - greitas, pigus ir efektyvus būdas patripinti</a></h4>
+                            <p><strong>
+                                                                Gintare Pupinyte
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/151"><img src="http://www.gravatar.com/avatar/4f08655ab258ff7e176bb0d7eb29cf0e?s=150&amp;r=G&amp;d=https://robohash.org/4f08655ab258ff7e176bb0d7eb29cf0e.png?size=150x150" alt="Julija Baniukevic" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/151" title="Nanotechnologijos aplink mus">Nanotechnologijos aplink mus</a></h4>
+                            <p><strong>
+                                                                Julija Baniukevic
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/148"><img src="http://www.gravatar.com/avatar/d111b188cf79c7c43178427ab044658c?s=150&amp;r=G&amp;d=https://robohash.org/d111b188cf79c7c43178427ab044658c.png?size=150x150" alt="Vytautas Mikalainis" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/148" title="Mobiliūju programėliu kūrimAs visom plaformom">Mobiliūju programėliu kūrimAs visom plaformom</a></h4>
+                            <p><strong>
+                                                                Vytautas Mikalainis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/144"><img src="http://www.gravatar.com/avatar/b21e31874429ee86b4083d6180b965da?s=150&amp;r=G&amp;d=https://robohash.org/b21e31874429ee86b4083d6180b965da.png?size=150x150" alt="Tomas Valaitis" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/144" title="Elektrinis dviratis">Elektrinis dviratis</a></h4>
+                            <p><strong>
+                                                                Tomas Valaitis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/143"><img src="http://www.gravatar.com/avatar/57200df8f431a8ab96d8d3a7affb2854?s=150&amp;r=G&amp;d=https://robohash.org/57200df8f431a8ab96d8d3a7affb2854.png?size=150x150" alt="Davidas Pogosianas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/143" title="metalo apdirbimas">metalo apdirbimas</a></h4>
+                            <p><strong>
+                                                                Davidas Pogosianas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/138"><img src="http://www.gravatar.com/avatar/3f0331464d669ad3297b33266c81af07?s=150&amp;r=G&amp;d=https://robohash.org/3f0331464d669ad3297b33266c81af07.png?size=150x150" alt="Martynas, Korsakas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/138" title="Stalo žaidimai">Stalo žaidimai</a></h4>
+                            <p><strong>
+                                                                Martynas, Korsakas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/136"><img src="http://www.gravatar.com/avatar/ea78f525f7395243199aa01ddc02fe8c?s=150&amp;r=G&amp;d=https://robohash.org/ea78f525f7395243199aa01ddc02fe8c.png?size=150x150" alt="Vidas Sadauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/136" title="Go žaidimas pradedantiems ir ne tik">Go žaidimas pradedantiems ir ne tik</a></h4>
+                            <p><strong>
+                                                                Vidas Sadauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/134"><img src="http://www.gravatar.com/avatar/ace2c8662cf7ea6bbc20cf75e40cdec2?s=150&amp;r=G&amp;d=https://robohash.org/ace2c8662cf7ea6bbc20cf75e40cdec2.png?size=150x150" alt="Mindaugas Grigas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/134" title="Codefights challenge">Codefights challenge</a></h4>
+                            <p><strong>
+                                                                Mindaugas Grigas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/129"><img src="http://www.gravatar.com/avatar/60cbd050aed9eb20a5f614d3c5a3433c?s=150&amp;r=G&amp;d=https://robohash.org/60cbd050aed9eb20a5f614d3c5a3433c.png?size=150x150" alt="Anna Lorens" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/129" title="Šokis">Šokis</a></h4>
+                            <p><strong>
+                                                                Anna Lorens
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/125"><img src="http://www.gravatar.com/avatar/482d8f089684a62405e386c3c3850dbc?s=150&amp;r=G&amp;d=https://robohash.org/482d8f089684a62405e386c3c3850dbc.png?size=150x150" alt="Loreta Pi" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/125" title="Sąmoningumo žaidimas &quot;Points of You&quot;">Sąmoningumo žaidimas &quot;Points of You&quot;</a></h4>
+                            <p><strong>
+                                                                Loreta Pi
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/113"><img src="http://www.gravatar.com/avatar/5ba5e014b41454ed532766d2c48daf17?s=150&amp;r=G&amp;d=https://robohash.org/5ba5e014b41454ed532766d2c48daf17.png?size=150x150" alt="Milda Sokolovaitė" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/113" title="Creative Writing and Spoken Word Workshop">Creative Writing and Spoken Word Workshop</a></h4>
+                            <p><strong>
+                                                                Milda Sokolovaitė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/115"><img src="http://www.gravatar.com/avatar/a7e6e1972a1712344c2a8a50272902ca?s=150&amp;r=G&amp;d=https://robohash.org/a7e6e1972a1712344c2a8a50272902ca.png?size=150x150" alt="Gintas Balčiūnas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/115" title="Mėgėjų šachmatų turnyras / Chess Tournament">Mėgėjų šachmatų turnyras / Chess Tournament</a></h4>
+                            <p><strong>
+                                                                Gintas Balčiūnas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/114"><img src="http://www.gravatar.com/avatar/a5337229bef63eb7a49d294db3bd1b0b?s=150&amp;r=G&amp;d=https://robohash.org/a5337229bef63eb7a49d294db3bd1b0b.png?size=150x150" alt="Lukas &amp; Redas Diržys" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/114" title="3-sided football///trišalis fublolas/// تین رخا میں فٹ بال">3-sided football///trišalis fublolas/// تین رخا میں فٹ بال</a></h4>
+                            <p><strong>
+                                                                Lukas &amp; Redas Diržys
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/127"><img src="http://www.gravatar.com/avatar/f706126651992d3a95dc68b0c38f7faf?s=150&amp;r=G&amp;d=https://robohash.org/f706126651992d3a95dc68b0c38f7faf.png?size=150x150" alt="Meškėnai" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/127" title="Keistų muzikinių instrumentų dirbtuvės">Keistų muzikinių instrumentų dirbtuvės</a></h4>
+                            <p><strong>
+                                                                Meškėnai
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/117"><img src="http://www.gravatar.com/avatar/097467e78845420511c5e04fb4c8f8fa?s=150&amp;r=G&amp;d=https://robohash.org/097467e78845420511c5e04fb4c8f8fa.png?size=150x150" alt="Laura Stalnionytė" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/117" title="CoderDojo programavimo pradmenų dirbtuvės vaikams">CoderDojo programavimo pradmenų dirbtuvės vaikams</a></h4>
+                            <p><strong>
+                                                                Laura Stalnionytė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/97"><img src="http://www.gravatar.com/avatar/b7b3fd391dce34a3bc3b83f8d0038683?s=150&amp;r=G&amp;d=https://robohash.org/b7b3fd391dce34a3bc3b83f8d0038683.png?size=150x150" alt="Vitas Vaiciulis" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/97" title="Pniaumatika, įvairus konstravimas">Pniaumatika, įvairus konstravimas</a></h4>
+                            <p><strong>
+                                                                Vitas Vaiciulis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/85"><img src="http://www.gravatar.com/avatar/4c45f4cb60785b1006f0133f79017e0e?s=150&amp;r=G&amp;d=https://robohash.org/4c45f4cb60785b1006f0133f79017e0e.png?size=150x150" alt="Kaunas Makerspace" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/85" title="Kaunas Makerspace geek&#039;ų tūse">Kaunas Makerspace geek&#039;ų tūse</a></h4>
+                            <p><strong>
+                                                                Kaunas Makerspace
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/90"><img src="http://www.gravatar.com/avatar/b165779a8289320e2bdf3415ea8ac41f?s=150&amp;r=G&amp;d=https://robohash.org/b165779a8289320e2bdf3415ea8ac41f.png?size=150x150" alt="Saulius S" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/90" title="Užsimotyvuojam sportuoti">Užsimotyvuojam sportuoti</a></h4>
+                            <p><strong>
+                                                                Saulius S
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/82"><img src="http://www.gravatar.com/avatar/36769ed2e654daae07deb0483e9bd2e2?s=150&amp;r=G&amp;d=https://robohash.org/36769ed2e654daae07deb0483e9bd2e2.png?size=150x150" alt="Arvydas Venckus" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/82" title="Protmūšis &quot;Galvodaužis&quot;">Protmūšis &quot;Galvodaužis&quot;</a></h4>
+                            <p><strong>
+                                                                Arvydas Venckus
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/59"><img src="http://www.gravatar.com/avatar/1544a659a71986a963405ef6f704e11c?s=150&amp;r=G&amp;d=https://robohash.org/1544a659a71986a963405ef6f704e11c.png?size=150x150" alt="Kamilė Šulcaitė" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/59" title="Sports in dance -dance in sports, kaip sportuoti, kad būtų smagu, kad kūnas būtų sveikas ir kaip pažadinti jį ryte.">Sports in dance -dance in sports, kaip sportuoti, kad būtų smagu, kad kūnas būtų sveikas ir kaip pažadinti jį ryte.</a></h4>
+                            <p><strong>
+                                                                Kamilė Šulcaitė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/66"><img src="http://www.gravatar.com/avatar/0e976c4ad8d36d445059ecb4965a260f?s=150&amp;r=G&amp;d=https://robohash.org/0e976c4ad8d36d445059ecb4965a260f.png?size=150x150" alt="Dalius Šidlauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/66" title="Everyone can draw">Everyone can draw</a></h4>
+                            <p><strong>
+                                                                Dalius Šidlauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/68"><img src="http://www.gravatar.com/avatar/06f5d8a0119acd8ea12336add6d65242?s=150&amp;r=G&amp;d=https://robohash.org/06f5d8a0119acd8ea12336add6d65242.png?size=150x150" alt="Paulina Bauzyte" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/68" title="Yoga guru in 2 steps">Yoga guru in 2 steps</a></h4>
+                            <p><strong>
+                                                                Paulina Bauzyte
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/53"><img src="http://www.gravatar.com/avatar/410d4940f2399fd88dc706f3dc783f77?s=150&amp;r=G&amp;d=https://robohash.org/410d4940f2399fd88dc706f3dc783f77.png?size=150x150" alt="Eimantas Tauklys" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/53" title="Put some salsa on your code">Put some salsa on your code</a></h4>
+                            <p><strong>
+                                                                Eimantas Tauklys
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/50"><img src="http://www.gravatar.com/avatar/a4f8a65d33cbdd3490b8e5d59b1fbfac?s=150&amp;r=G&amp;d=https://robohash.org/a4f8a65d33cbdd3490b8e5d59b1fbfac.png?size=150x150" alt="Inga Leskauskienė" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/50" title="Žaidimų palapinė vaikams">Žaidimų palapinė vaikams</a></h4>
+                            <p><strong>
+                                                                Inga Leskauskienė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/48"><img src="http://www.gravatar.com/avatar/50335ddbc1392ce708b8a5167455b682?s=150&amp;r=G&amp;d=https://robohash.org/50335ddbc1392ce708b8a5167455b682.png?size=150x150" alt="Darius Leskauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/48" title="Kaip atsiranda medus?">Kaip atsiranda medus?</a></h4>
+                            <p><strong>
+                                                                Darius Leskauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/47"><img src="http://www.gravatar.com/avatar/67b6fa7d36c15867ef11409d679d0232?s=150&amp;r=G&amp;d=https://robohash.org/67b6fa7d36c15867ef11409d679d0232.png?size=150x150" alt="Augustas Urbonas" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/47" title="Indėniška pirtis">Indėniška pirtis</a></h4>
+                            <p><strong>
+                                                                Augustas Urbonas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/39"><img src="http://www.gravatar.com/avatar/40a3100a3b328924d9bf17146b5dd220?s=150&amp;r=G&amp;d=https://robohash.org/40a3100a3b328924d9bf17146b5dd220.png?size=150x150" alt="Marius Pareščius" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/39" title="Metalo skulptūros (metalo apdirbimas, virinimas, pjaustymas)">Metalo skulptūros (metalo apdirbimas, virinimas, pjaustymas)</a></h4>
+                            <p><strong>
+                                                                Marius Pareščius
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/38"><img src="http://www.gravatar.com/avatar/f411b3c4b7f4914a168de2ffc781ce2e?s=150&amp;r=G&amp;d=https://robohash.org/f411b3c4b7f4914a168de2ffc781ce2e.png?size=150x150" alt="Marco Rosello" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/38" title="Rugby">Rugby</a></h4>
+                            <p><strong>
+                                                                Marco Rosello
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/33"><img src="http://www.gravatar.com/avatar/91456f56fd00c36951b33555c1f5f153?s=150&amp;r=G&amp;d=https://robohash.org/91456f56fd00c36951b33555c1f5f153.png?size=150x150" alt="Marija Miselytė" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/33" title="Prasibėgam bekele?">Prasibėgam bekele?</a></h4>
+                            <p><strong>
+                                                                Marija Miselytė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/29"><img src="http://www.gravatar.com/avatar/b07d712e9b5b71abe5c2dbd9a37db731?s=150&amp;r=G&amp;d=https://robohash.org/b07d712e9b5b71abe5c2dbd9a37db731.png?size=150x150" alt="Egle Stankunaite" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/29" title="Acroyoga">Acroyoga</a></h4>
+                            <p><strong>
+                                                                Egle Stankunaite
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2016/pranesimai/24"><img src="http://www.gravatar.com/avatar/f6a6471c40c21cd9788ac8702ba4ce35?s=150&amp;r=G&amp;d=https://robohash.org/f6a6471c40c21cd9788ac8702ba4ce35.png?size=150x150" alt="Paulius Dapkevičius" class="media-object img-rounded"></a>
+                            <h4><a href="/2016/pranesimai/24" title="Makeblock">Makeblock</a></h4>
+                            <p><strong>
+                                                                Paulius Dapkevičius
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                                                                                                                                                        
+            </div>
+
+
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2016/"><img src="/2016/images/logo.png?v1"><br>No Trolls Allowed</a>
+                    </div>
+
+                    <dl class="footer-nav">
+                        <dt class="nav-title">#ntacamp</dt>
+                        <dd class="nav-item">
+                            <a href="/2016/apie">Apie <em>Hacker Camp</em></a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2016/#vieta">Vieta</a>
+                        </dd>
+                                                <dd class="nav-item">
+                            <a href="/2016/duk">DUK</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="http://blog.notrollsallowed.com/">BLOG</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2016/kontaktai">Kontaktai</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2016/login">Prisijungti</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2016/en">English</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Renginio programa</dt>
+                        <dd class="nav-item">
+                            <a href="/2016/pranesimai">Pranešimai</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2016/dirbtuves">Dirbtuvės ir užsiėmimai</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Sekite mus</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Turite idėjų? Rašykite!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2016/js/compiled/all.js?v1"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>
