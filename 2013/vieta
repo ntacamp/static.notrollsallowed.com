@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>No Trolls Allowed &mdash; Vieta &mdash; Veiklių žmonių suvažiavimas</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/png" href="/2013/assets/img/favicon.png">
+        <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <link href="/2013/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="/2013/components/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+        <link href="/2013/assets/css/style.css" rel="stylesheet" type="text/css" />
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+    <body class="map">
+
+      <div id="map-canvas"></div>
+
+        <div class="masthead">
+            <a href="/2013/" class="title"><img src="/2013/assets/img/title.png" alt="" /></a>
+          
+            <div class="navbar navbar-inverse">
+              <div class="navbar-inner">
+                <div class="container">
+                    <ul class="nav">
+    <li><a href="/2013/apie">Apie</a></li>
+    <li><a href="/2013/registracija">Registracija</a></li>
+    <li><a href="/2013/programa">Programa</a></li>
+    <li><a href="/2013/vieta">Vieta</a></li>
+    <li><a href="/2013/duk">DUK</a></li>
+    <li><a href="/2013/kontaktai">Kontaktai</a></li>
+</ul>
+                </div>
+              </div>
+            </div><!-- /.navbar -->
+        </div>
+        <div class="container info">
+          <div class="content">
+            <article>
+              <ul class="nav nav-tabs" id="tabs">
+    <li class="active"><a href="#kaip-atvykti">Kaip atvykti?</a></li>
+    <li><a href="#vieta">Vieta</a></li>
+    <li><a href="#kaina">Kaina</a></li>
+    <li><a href="#patogumai-ir-smagumai">Patogumai ir smagumai</a></li>
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane active" id="kaip-atvykti">
+        <h2>Kaip atvykti?</h2>
+        <p>
+            <address>
+                <b>Etnografinė sodyba ir dangaus šviesulių stebykla</b><br>
+                <a href="http://www.notrollsallowed.com/assets/img/moletai.gif" target="_blank">Schema</a>
+                 / <a href="https://www.google.com/maps?q=55.310122,+25.556615&ll=55.310122,25.556624&spn=0.009745,0.01929&sll=37.06250000000001,-95.67706800000002&sspn=59.875557689742536,77.42373856721738&t=h&dg=opt&z=16&iwloc=near" target="_blank">Google Maps</a>
+                 / <a href="http://maps.lt/map/default.aspx?lang=lt#obj=598818;6131636;Pa%C5%BEym%C4%97tas%20ta%C5%A1kas;&xy=598763,6131674&z=2000&lrs=hybrid,stops,zebra" target="_blank">maps.lt</a>
+        </address>
+        Vilniaus - Utenos plento 72-ame kilometre sukama rodyklės su užrašu
+        "Observatorija 5 km" nurodyta kryptimi ir važiuojama 4 km, kol pamatysit medinį <a href="/2013/assets/img/rodykle.png">ženklą-rodyklę "Dangaus stebykla</a>", sukit rodyklės kryptimi (į dešinę) ir už 200 m atrasite
+        Etnografinę sodybą (<a href="/2013/assets/img/moletai.gif" target="_blank">žr. schemą</a>).</p>
+        <p>GPS: 55.310122, 25.556615</p>
+    </div>
+    <div class="tab-pane" id="vieta">
+        <h2>Vieta</h2>
+        <p>Šalia Molėtų observatorijos vaizdingoje Lenktinio ežero pakrantėje 
+        stūkso <a href="http://muziejus.moletai.lt/sodyba.html" target="_blank">etnografinė sodyba</a> ir dangaus šviesulių stebykla. Renginio metu
+        šalia esančioje pievoje įsikurs ir palapinių miestelis.</p>
+    </div>
+    <div class="tab-pane" id="kaina">
+        <h2>Kaina</h2>
+        <p>Vietos savininkai - Molėtų krašto muziejus - renka nedidelį mokestį už aplinkos
+        priežiūrą. Savaitgaliui suma turėtų būti apie 12 Lt žmogui.</p>
+    </div>
+    <div class="tab-pane clearfix" id="patogumai-ir-smagumai">
+        <h2>Patogumai ir smagumai</h2>
+        <ul class="pull-left">
+            <li>Didelė pieva</li>
+            <li>Ežeras</li>
+            <li>Elektra</li>
+        </ul>
+        <ul class="pull-left">
+            <li>Dvi pavėsinės</li>
+            <li>Šalia Molėtų observatorija</li>
+            <li>Artimiausia parduotuvė ~10 km.</li>
+        </ul>
+    </div>
+</div>
+            </article>
+          </div>
+        </div>
+        <a href="/2013/" class="troll">No Trolls Allowed</a>
+
+        <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="/2013/assets/js/bootstrap-tab.js"></script>
+        <script src="/2013/assets/js/app.js"></script>
+        <script src="/2013/assets/js/map.js"></script>
+        <script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+                
+                <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+            </body>
+</html>
