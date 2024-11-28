@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2015 | Pirmas ir vienintelis Hackercamp'as Lietuvoje!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="NTA1" description="LAUGHITUPFUZZBALL">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="http://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2015/images/favicon.png?v1">
+        <link rel="bookmark" type="image/png" href="/2015/images/favicon.png?v1">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2015/css/compiled/all.css?v1" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2015.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2015">
+        <meta property="og:description" content="Pirmas ir vienintelis hackercamp'as Lietuvoje! Po atviru dangumi vykstantis renginys, siekiantis suburti įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, įvairaus plauko geek'ai, mokslininkai, konstruktoriai, artistai, menininkai ir kitų sričių specialistai, galintys ir norintys pasidalinti savo žiniomis. Norite sudalyvauti? Pasiimkite savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuokite!">
+        <meta property="og:image" content="/images/troll-medium.png?v1"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+    <body data-controller="Schedule"
+          data-action="workshops">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img src="/2015/images/logo.png?v1"><span>No Trolls Allowed</span></a>
+                </div>
+                <div class="pull-right">
+                    
+                                            <a href="/2015/login" class="navbar-btn btn">Prisijungti</a>
+                    
+                </div>
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                        <li><a href="/2015/apie">Apie</i></a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programa <b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2015/pranesimai">Pranešimai</a></li>
+                                <li><a href="/2015/dirbtuves">Dirbtuvės ir užsiėmimai</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/2015/duk">DUK</a></li>
+                        <li><a href="/2015/kontaktai">Kontaktai</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOGas</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                                    <div class="row">
+                <article class="col-md-10 col-md-offset-1">
+                        <h1>Dirbtuvės ir užsiėmimai</h1>
+
+    <div class="row schedule">
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/129"><img src="http://www.gravatar.com/avatar/98b8fb9738ef4e9a053c91655c67d72f?s=150&amp;r=G&amp;d=https://robohash.org/98b8fb9738ef4e9a053c91655c67d72f.png?size=150x150" alt="Mantas Eigirdas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/129" title="Video žaidimų kūrimo įvadas">Video žaidimų kūrimo įvadas</a></h4>
+                            <p><strong>
+                                                                Mantas Eigirdas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/128"><img src="http://www.gravatar.com/avatar/c93fd08cfed3f64491d1dd3925518359?s=150&amp;r=G&amp;d=https://robohash.org/c93fd08cfed3f64491d1dd3925518359.png?size=150x150" alt="Vidas Sadauskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/128" title="Gyvenimas ir mirtis lentoje: Go žaidimas pradedantiems ir ne tik">Gyvenimas ir mirtis lentoje: Go žaidimas pradedantiems ir ne tik</a></h4>
+                            <p><strong>
+                                                                Vidas Sadauskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/111"><img src="http://www.gravatar.com/avatar/13f01488c9b1ff31616bf3a177a98b53?s=150&amp;r=G&amp;d=https://robohash.org/13f01488c9b1ff31616bf3a177a98b53.png?size=150x150" alt="Vilius Kraujutis" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/111" title="Pirmoji pažintis su Virtualia Realybe">Pirmoji pažintis su Virtualia Realybe</a></h4>
+                            <p><strong>
+                                                                Vilius Kraujutis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/106"><img src="http://www.gravatar.com/avatar/d5449b9e690d73c0e13cf6c4395d04d7?s=150&amp;r=G&amp;d=https://robohash.org/d5449b9e690d73c0e13cf6c4395d04d7.png?size=150x150" alt="Tadas Berlinskas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/106" title="3D doodler">3D doodler</a></h4>
+                            <p><strong>
+                                                                Tadas Berlinskas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/104"><img src="http://www.gravatar.com/avatar/fdbf07773ea512150eb451c9efd15ecf?s=150&amp;r=G&amp;d=https://robohash.org/fdbf07773ea512150eb451c9efd15ecf.png?size=150x150" alt="Technariumo kolektyvas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/104" title="Technariumas miške">Technariumas miške</a></h4>
+                            <p><strong>
+                                                                Technariumo kolektyvas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/97"><img src="http://www.gravatar.com/avatar/f7c95f1f24b0b3415ac886df5028b3d7?s=150&amp;r=G&amp;d=https://robohash.org/f7c95f1f24b0b3415ac886df5028b3d7.png?size=150x150" alt="Darius Vozbutas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/97" title="sumo robotų kovinis programavimas">sumo robotų kovinis programavimas</a></h4>
+                            <p><strong>
+                                                                Darius Vozbutas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/88"><img src="http://www.gravatar.com/avatar/8e9d5af56e7bf9f9d0b490783689034f?s=150&amp;r=G&amp;d=https://robohash.org/8e9d5af56e7bf9f9d0b490783689034f.png?size=150x150" alt="Paulina Baužytė" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/88" title="Jogos pagrindai">Jogos pagrindai</a></h4>
+                            <p><strong>
+                                                                Paulina Baužytė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/72"><img src="http://www.gravatar.com/avatar/40824db85618ead32d0c6591843359e0?s=150&amp;r=G&amp;d=https://robohash.org/40824db85618ead32d0c6591843359e0.png?size=150x150" alt="Božena Boravskaja" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/72" title="Nestumk laiko - stumk meepl&#039;ą">Nestumk laiko - stumk meepl&#039;ą</a></h4>
+                            <p><strong>
+                                                                Božena Boravskaja
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/69"><img src="http://www.gravatar.com/avatar/8e8470833e73b0dd957bd22618e77ec6?s=150&amp;r=G&amp;d=https://robohash.org/8e8470833e73b0dd957bd22618e77ec6.png?size=150x150" alt="Ieva Jonaitytė" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/69" title="Mindstorms: Robotizuotos  įdomybės">Mindstorms: Robotizuotos  įdomybės</a></h4>
+                            <p><strong>
+                                                                Ieva Jonaitytė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/1"><img src="http://www.gravatar.com/avatar/422653581312ea8e8d03b8c7aeb78e8c?s=150&amp;r=G&amp;d=https://robohash.org/422653581312ea8e8d03b8c7aeb78e8c.png?size=150x150" alt="Paulius Podolskis" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/1" title="Kovos menų pagrindai">Kovos menų pagrindai</a></h4>
+                            <p><strong>
+                                                                Paulius Podolskis
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/49"><img src="http://www.gravatar.com/avatar/438a89170e090af174c6d633b6462446?s=150&amp;r=G&amp;d=https://robohash.org/438a89170e090af174c6d633b6462446.png?size=150x150" alt="Viktorija Paltanaviciute" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/49" title="Tempimo  pratimai dirbantiems sedima darba">Tempimo  pratimai dirbantiems sedima darba</a></h4>
+                            <p><strong>
+                                                                Viktorija Paltanaviciute
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/11"><img src="http://www.gravatar.com/avatar/a13b699eb935480dfe63251026756a63?s=150&amp;r=G&amp;d=https://robohash.org/a13b699eb935480dfe63251026756a63.png?size=150x150" alt="Gediminas Gražys" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/11" title="Fotografija">Fotografija</a></h4>
+                            <p><strong>
+                                                                Gediminas Gražys
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/33"><img src="http://www.gravatar.com/avatar/b71190e867e60c9bf69c77aae26313a9?s=150&amp;r=G&amp;d=https://robohash.org/b71190e867e60c9bf69c77aae26313a9.png?size=150x150" alt="Žilvinas Vaiciukevičius" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/33" title="8-bit žaidimų kampelis">8-bit žaidimų kampelis</a></h4>
+                            <p><strong>
+                                                                Žilvinas Vaiciukevičius
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/39"><img src="http://www.gravatar.com/avatar/00f8c151be8da785f5f76b150a139cca?s=150&amp;r=G&amp;d=https://robohash.org/00f8c151be8da785f5f76b150a139cca.png?size=150x150" alt="M &amp; Ms" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/39" title="Vandens pramogos ir žaidimai">Vandens pramogos ir žaidimai</a></h4>
+                            <p><strong>
+                                                                M &amp; Ms
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/28"><img src="http://www.gravatar.com/avatar/32a956c4e6b5c989e048ac08af25282e?s=150&amp;r=G&amp;d=https://robohash.org/32a956c4e6b5c989e048ac08af25282e.png?size=150x150" alt="Ieva Marija Dautartaitė" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/28" title="Kaleidoskopų dirbtuvės">Kaleidoskopų dirbtuvės</a></h4>
+                            <p><strong>
+                                                                Ieva Marija Dautartaitė
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/30"><img src="http://www.gravatar.com/avatar/f30016bf58de2f8505e9987c64a5991f?s=150&amp;r=G&amp;d=https://robohash.org/f30016bf58de2f8505e9987c64a5991f.png?size=150x150" alt="Mindaugas Grigas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/30" title="Codefights challenge">Codefights challenge</a></h4>
+                            <p><strong>
+                                                                Mindaugas Grigas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                                                    <div class="col-md-3">
+                        <div class="talk">
+                            <a href="/2015/pranesimai/2"><img src="http://www.gravatar.com/avatar/f028a108e367ebda5c0ae8aa112c29e8?s=150&amp;r=G&amp;d=https://robohash.org/f028a108e367ebda5c0ae8aa112c29e8.png?size=150x150" alt="Žilvinas Kuusas" class="media-object img-rounded"></a>
+                            <h4><a href="/2015/pranesimai/2" title="Vagiame nesaugius duomenis: Man in the Middle Attack">Vagiame nesaugius duomenis: Man in the Middle Attack</a></h4>
+                            <p><strong>
+                                                                Žilvinas Kuusas
+                                                            </strong></p>
+                        </div>
+                    </div>
+                                                
+            </div>
+
+
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2015/"><img src="/2015/images/logo.png?v1"><br>No Trolls Allowed</a>
+                    </div>
+
+                    <dl class="footer-nav">
+                        <dt class="nav-title">#ntacamp</dt>
+                        <dd class="nav-item">
+                            <a href="/2015/apie">Apie <em>Hacker Camp</em></a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/#vieta">Vieta</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/duk">DUK</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="http://blog.notrollsallowed.com/">BLOGas</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/kontaktai">Kontaktai</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/login">Prisijungti</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Renginio programa</dt>
+                        <dd class="nav-item">
+                            <a href="/2015/pranesimai">Pranešimai</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/dirbtuves">Dirbtuvės ir užsiėmimai</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Sekite mus</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Turite idėjų? Rašykite!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2015/js/compiled/all.js?v1"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>

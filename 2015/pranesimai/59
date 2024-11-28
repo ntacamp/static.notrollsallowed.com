@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2015 | Pirmas ir vienintelis Hackercamp'as Lietuvoje!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="NTA1" description="LAUGHITUPFUZZBALL">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="http://fonts.googleapis.com/css?family=Lato:400,300,600,800,700,400italic,600italic,700italic,800italic,300italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" type="image/png" href="/2015/images/favicon.png?v1">
+        <link rel="bookmark" type="image/png" href="/2015/images/favicon.png?v1">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2015/css/compiled/all.css?v1" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2015.notrollsallowed.com/">
+        <meta property="og:title" content="No Trolls Allowed 2015">
+        <meta property="og:description" content="Pirmas ir vienintelis hackercamp'as Lietuvoje! Po atviru dangumi vykstantis renginys, siekiantis suburti įvairių pomėgių turinčius žmones. Čia laukiami progamuotojai, įvairaus plauko geek'ai, mokslininkai, konstruktoriai, artistai, menininkai ir kitų sričių specialistai, galintys ir norintys pasidalinti savo žiniomis. Norite sudalyvauti? Pasiimkite savo šeimyną, maisto, gėrimų, bei palapinę viskam sutalpinti ir atvažiuokite!">
+        <meta property="og:image" content="/images/troll-medium.png?v1"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+    </head>
+    <body data-controller="Schedule"
+          data-action="talk">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img src="/2015/images/logo.png?v1"><span>No Trolls Allowed</span></a>
+                </div>
+                <div class="pull-right">
+                    
+                                            <a href="/2015/login" class="navbar-btn btn">Prisijungti</a>
+                    
+                </div>
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                        <li><a href="/2015/apie">Apie</i></a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programa <b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2015/pranesimai">Pranešimai</a></li>
+                                <li><a href="/2015/dirbtuves">Dirbtuvės ir užsiėmimai</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/2015/duk">DUK</a></li>
+                        <li><a href="/2015/kontaktai">Kontaktai</a></li>
+                        <li><a href="http://blog.notrollsallowed.com/">BLOGas</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                                    <div class="row">
+                <article class="col-md-10 col-md-offset-1">
+                        <h1>
+        Scrum - Šventasis Gralis planuojant vestuves
+        <span class="badge badge-primary">Scena: Analog</span>
+            </h1>
+    <div class="row" >
+        <div class="col-md-8">
+            <p><em>"Visi pirmi kartai būna geriausi"</em>, - būsimos žmonos mėgstama citata. Projektas  "Pasakiškos vestuvės" prasidėjo man pasipiršus ir tęsiasi dar nepilnus metus. Kaip suplanuoti nuostabias vestuves  iš pirmo karto?</p>
+
+<p>Vieną vakarą pokalbio apie vestuves metu, kai klausimų skaičius didėjo eksponentiškai, o atsakymų ieškojome trukčiodami pečiais, kilo mintis -žaibas -pasitelkti scrum metodiką ir taip suvaldyti vestuvių darbus.</p>
+
+<p>Ar scrum yra Šventasis Gralis, kurs išgelbės nuo nuotakos Bridezillos,  nuramins uošvienę ir apsaugos jaunikį nuo finansinio kracho?</p>
+
+        </div>
+        <div class="col-md-3">
+            <p class="text-center">
+                <img src="http://www.gravatar.com/avatar/313da585de04f30ac5326b4864729381?s=150&amp;r=G&amp;d=https://robohash.org/313da585de04f30ac5326b4864729381.png?size=150x150" alt="" class="media-object img-rounded talk-img">
+            </p>
+            <p class="text-center">
+                                Vaidas Lungis
+                            </p>
+            <p class="text-center">
+                                                                                                                            </p>
+        </div>
+    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2015/"><img src="/2015/images/logo.png?v1"><br>No Trolls Allowed</a>
+                    </div>
+
+                    <dl class="footer-nav">
+                        <dt class="nav-title">#ntacamp</dt>
+                        <dd class="nav-item">
+                            <a href="/2015/apie">Apie <em>Hacker Camp</em></a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/#vieta">Vieta</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/duk">DUK</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="http://blog.notrollsallowed.com/">BLOGas</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/kontaktai">Kontaktai</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/login">Prisijungti</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Renginio programa</dt>
+                        <dd class="nav-item">
+                            <a href="/2015/pranesimai">Pranešimai</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2015/dirbtuves">Dirbtuvės ir užsiėmimai</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Sekite mus</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Turite idėjų? Rašykite!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2015/js/compiled/all.js?v1"></script>
+        
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-41181062-1']);
+            _gaq.push(['_setDomainName', 'notrollsallowed.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+	</body>
+</html>
