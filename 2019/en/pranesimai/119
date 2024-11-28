@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2019 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+        <link rel="shortcut icon" type="image/png" href="/2019/images/favicon.png?v4">
+        <link rel="bookmark" type="image/png" href="/2019/images/favicon.png?v4">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2019/css/compiled/all.css?v4" />
+                            <link rel="stylesheet" href="/2019/css/compiled/main.css?v4" />
+                            <link rel="stylesheet" href="/2019/css/compiled/md-preview.css?v4" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2019.notrollsallowed.com/en/">
+        <meta property="og:title" content="No Trolls Allowed 2019 | The One Hackercamp of Lithuania">
+        <meta property="og:description" content="No Trolls Allowed is an annual open-air hackercamp where hobbies and arts meet technology and awesomeness.">
+        <meta property="og:image" content="/images/basic-sticker.png?v4"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+        
+        <link rel="manifest" href="/2019/public/manifest.json">
+        <link rel="apple-touch-icon" href="/2019/images/logo192.png">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#434a54">
+        <meta name="apple-mobile-web-app-title" content="No Trolls Allowed">
+        <meta name="theme-color" content="#434a54" />
+
+    </head>
+    <body data-controller="schedule"
+          data-action="talk">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/2019/en/">
+                        <img src="/2019/images/logo.png?v4">
+                        <img class="logo-title" src="/2019/images/nta_logo_dark.png?v4">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2019/en/login" class="navbar-btn btn-primary btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2019/en/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/en/about">About</i></a></li>
+                                <li><a href="/2019/en/faq">FAQ</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/en/pranesimai">Presentations</a></li>
+                                <li><a href="/2019/en/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScBvYG8GmADS1SuKgPNQfmD2BUPilFZsKygHfibc-D03rFMmg/viewform" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2019/en/kontaktai">Contact us</a></li>
+                        <li><a href="https://medium.com/@ntacamp">BLOG</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/lt">LT</a></li>
+                                <li><a href="/2019/en">EN</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-10 col-md-offset-1">
+                        <div class="row" >
+        <div class="panel panel-default">
+          <!-- Default panel contents -->
+          <div class="panel-heading">
+            <h1>The Secret: Writing Code Is Not about Writing Code</h1>
+                                  </div>
+
+          <!-- Table -->
+          <table class="table">
+              <tr>
+                  <td><strong>Speaker</strong></td>
+                  <td>
+                                        Mindaugas Mozūras
+                                        &nbsp;
+                                                                                                                                          </td>
+              </tr>
+              <tr>
+                  <td><strong>Language</strong></td>
+                  <td>EN</td>
+              </tr>
+              <tr>
+                  <td><strong>Stage</strong></td>
+                  <td>/dev/random</td>
+              </tr>
+              <tr>
+                  <td><strong>Activity</strong></td>
+                  <td>Presentation</td>
+              </tr>
+          </table>
+          <div class="panel-heading">Description</div>
+          <div class="panel-body">
+            <p>As hackers and builders of various kinds, we all care about how we do create. We spend time improving our tools and our ability to use them. We obtain knowledge and are proud of how much we know.</p>
+
+<p><em>But.</em></p>
+
+<p>The Secret of writing code is that it's not about writing code. Teams, not individuals, create the software we all use today. Those, who can type the fastest, commit the most code, know the latest tools, review all the pull requests don't make the best team.</p>
+
+<p>Learn how writing code is similar to other team activities, including basketball. Take a journey with me through three parts: <em>basketball rivalry, people > code and building teams at Vinted</em>. Great teams don't just happen; they are intentionally formed.</p>
+
+          </div>
+			        </div>
+    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2019/en/"><img src="/2019/images/logo.png?v4"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2019/en/privacy">Privacy</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2019/en/terms">Terms and conditions</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2019/js/compiled/all.js?v4"></script>
+        
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41181062-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-41181062-1', {'anonymize_ip': true});
+        </script>
+
+
+    </body>
+</html>

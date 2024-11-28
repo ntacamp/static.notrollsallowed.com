@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2019 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+        <link rel="shortcut icon" type="image/png" href="/2019/images/favicon.png?v4">
+        <link rel="bookmark" type="image/png" href="/2019/images/favicon.png?v4">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2019/css/compiled/all.css?v4" />
+                            <link rel="stylesheet" href="/2019/css/compiled/main.css?v4" />
+                            <link rel="stylesheet" href="/2019/css/compiled/md-preview.css?v4" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2019.notrollsallowed.com/en/">
+        <meta property="og:title" content="No Trolls Allowed 2019 | The One Hackercamp of Lithuania">
+        <meta property="og:description" content="No Trolls Allowed is an annual open-air hackercamp where hobbies and arts meet technology and awesomeness.">
+        <meta property="og:image" content="/images/basic-sticker.png?v4"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+        
+        <link rel="manifest" href="/2019/public/manifest.json">
+        <link rel="apple-touch-icon" href="/2019/images/logo192.png">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#434a54">
+        <meta name="apple-mobile-web-app-title" content="No Trolls Allowed">
+        <meta name="theme-color" content="#434a54" />
+
+    </head>
+    <body data-controller="pages"
+          data-action="about">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/2019/en/">
+                        <img src="/2019/images/logo.png?v4">
+                        <img class="logo-title" src="/2019/images/nta_logo_dark.png?v4">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2019/en/login" class="navbar-btn btn-primary btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2019/en/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/en/about">About</i></a></li>
+                                <li><a href="/2019/en/faq">FAQ</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/en/pranesimai">Presentations</a></li>
+                                <li><a href="/2019/en/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScBvYG8GmADS1SuKgPNQfmD2BUPilFZsKygHfibc-D03rFMmg/viewform" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2019/en/kontaktai">Contact us</a></li>
+                        <li><a href="https://medium.com/@ntacamp">BLOG</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/lt">LT</a></li>
+                                <li><a href="/2019/en">EN</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-10 col-md-offset-1">
+                    <div class="about-page">
+		
+    <h1>About No Trolls Allowed</h1>
+
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			
+		    <p><strong>No Trolls Allowed</strong> is an open-air gathering of hobbies, arts and technology that welcomes hackers of any nature. Imagine hundreds of passionate people gathering in the woods to share their knowledge and their joy of discovery.</p>
+			
+			<p>
+				<img src="/2019/images/professions.png" alt="Professions">
+			</p>
+		    
+
+		    <p>The camp is free in every sense of the word: from free drinks and food to freedom of speech. However, as the name suggests, we aren’t very fond of trolls, which means you have to bring something in. That being said, your ticket to the camp is your participation. The good news is that the form of participation is entirely up to you, so feel free to choose one of the following:
+		    </p>
+
+		    <ul>
+		    	<li><strong>Do a presentation.</strong> It’s the key of the entire gathering, presentations take place on three different stages for three days. You`ll have an opportunity to choose the most convenient time and stage for you if the slot is not taken yet (the earlier you come to the camp, the more chances you have). Just remember, you are here to share your passion and awesome things you know, so we ask you not to talk about boring job stuff you do every day and definitely no commercial presentations.</li>
+		    	<li><strong>Do a workshop.</strong> Whether it’s related to art — drawing, dancing or karate, or to technology — rockets, genetically engineered monsters or space dogs, you’re very welcome to go nuts here. Workshops can be done by several people, so take a friend and do something awesome!</li>
+		    	<li><strong>Volunteer.</strong> By joining our awesome crew you receive a bunch of cool perks but at the same time it’s important not to forget that where there’s power, there’s also responsibility.</li>
+		    </ul>
+
+		    <p>If you’re wondering whether the camp welcomes international guests as well, no worries. We are a global community and open to those who want to share something they love in a presentation or a workshop in any language (of course English is preferred). And even though the majority of presentations are in Lithuanian, our experience shows that it’s easy for most to switch to English for Q&amp;A and/or discussion.</p>
+
+			<h2>Short history of No Trolls Allowed</h2>
+			<p>It all started in the Spring of 2013. A group of like-minds had an idea to get together somewhere in the nature in a summer time. To make this time even more useful, at the same time everyone could prepare presentations to tell each other something interesting. Then why not invite more people? Good idea, but.. how to make sure not only listeners gather and we have enough speakers? Well, this is how the main rule of NTA came up — every participant of the event has to prepare a presentation that would be interesting to others. </p><p>How did the first event go? It took place near Moletai, 70 people participated, 38 presentations were made, other fun stuff like beer brewing also happened. Positive comments from the participants made us think about the following year. </p><p>So in 2014 already 300 people participated and there were over 100 presentations. Plus, there were such cool workshops as soldering, programming, creation of LEGO robots, board-games, etc. </p><p>In 2015 NTA became a real hacker camp.</p><p>In 2016 for the first time a team of volunteers was formed to help us supervise the fast-growing event!</p><p>In the following years the event grew even bigger. For the past few years the number of participants exceeded 400! </p><p>What’s next? Come and see for yourself! </p>
+
+			<p> If you have any other questions, just drop us a line at  <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a> or say Hi on Facebook.</p>
+			<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNoTrollsAllowed%2F&tabs=messages&width=500&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1796467907334809" width="500" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+		</div>
+	</div>
+
+
+
+</div>
+                </article>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2019/en/"><img src="/2019/images/logo.png?v4"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2019/en/privacy">Privacy</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2019/en/terms">Terms and conditions</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2019/js/compiled/all.js?v4"></script>
+        
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41181062-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-41181062-1', {'anonymize_ip': true});
+        </script>
+
+
+    </body>
+</html>

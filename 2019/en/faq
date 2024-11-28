@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="lt">
+	<head>
+        <title>No Trolls Allowed 2019 | The first and only Hackercamp in Lithuania!</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta charset="utf-8">
+
+		<!--== Google Fonts ==-->
+        <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+        <link rel="shortcut icon" type="image/png" href="/2019/images/favicon.png?v4">
+        <link rel="bookmark" type="image/png" href="/2019/images/favicon.png?v4">
+
+		<!--== CSS Files ==-->
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+                    <link rel="stylesheet" href="/2019/css/compiled/all.css?v4" />
+                            <link rel="stylesheet" href="/2019/css/compiled/main.css?v4" />
+                            <link rel="stylesheet" href="/2019/css/compiled/md-preview.css?v4" />
+        
+		<!--== FB meta ==-->
+        <meta property="og:url" content="https://2019.notrollsallowed.com/en/">
+        <meta property="og:title" content="No Trolls Allowed 2019 | The One Hackercamp of Lithuania">
+        <meta property="og:description" content="No Trolls Allowed is an annual open-air hackercamp where hobbies and arts meet technology and awesomeness.">
+        <meta property="og:image" content="/images/basic-sticker.png?v4"/>
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="310">
+        <meta property="og:image:height" content="300">
+        
+        <link rel="manifest" href="/2019/public/manifest.json">
+        <link rel="apple-touch-icon" href="/2019/images/logo192.png">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#434a54">
+        <meta name="apple-mobile-web-app-title" content="No Trolls Allowed">
+        <meta name="theme-color" content="#434a54" />
+
+    </head>
+    <body data-controller="pages"
+          data-action="faq">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nta-navbar">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/2019/en/">
+                        <img src="/2019/images/logo.png?v4">
+                        <img class="logo-title" src="/2019/images/nta_logo_dark.png?v4">
+                    </a>
+                </div>
+
+                <div class="pull-right hidden-xs hidden-sm">
+                                            <a href="/2019/en/login" class="navbar-btn btn-primary btn">Login</a>
+                                    </div>
+
+                <div class="collapse navbar-collapse" id="nta-navbar">
+                    <ul class="nav navbar-default navbar-nav">
+                                                    <li class="visible-xs visible-sm"><a href="/2019/en/login">Login</a></li>
+                                                <li class="divider"></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About NTA<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/en/about">About</i></a></li>
+                                <li><a href="/2019/en/faq">FAQ</a></li>
+                            </ul>
+                        </li>
+                                                <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Schedule<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/en/pranesimai">Presentations</a></li>
+                                <li><a href="/2019/en/dirbtuves">Workshops</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScBvYG8GmADS1SuKgPNQfmD2BUPilFZsKygHfibc-D03rFMmg/viewform" target="_blank">Volunteer!</a></li>
+                        <li><a href="/2019/en/kontaktai">Contact us</a></li>
+                        <li><a href="https://medium.com/@ntacamp">BLOG</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Language<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="/2019/lt">LT</a></li>
+                                <li><a href="/2019/en">EN</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+            <div class="page">
+        <div class="container">
+                        <div class="row">
+                                <article class="col-md-6 col-md-offset-1">
+                    <h1>FAQ</h1>
+
+<h3><em>Frequently asked questions</em></h3>
+<h4>General info</h4>
+        <ul>
+                                        <li><a href="#what-is-nta">What does &quot;No Trolls Allowed&quot; mean?</a></li>
+                                        <li><a href="#what-is-troll">What is a troll?</a></li>
+                                        <li><a href="#ticket-cost">How much does a ticket cost?</a></li>
+                                        <li><a href="#event-agenda">What is the agenda of the event?</a></li>
+                                        <li><a href="#wi-fi">Will there be a Wi-Fi?</a></li>
+                                        <li><a href="#electricity">Will there be electricity?</a></li>
+                                        <li><a href="#food">Will there be something to eat?</a></li>
+                                        <li><a href="#what-to-bring">What things do I need to bring?</a></li>
+                                        <li><a href="#how-to-come">How to get to the campsite?</a></li>
+                                        <li><a href="#nearest-supermarket">Where is the nearest supermarket?</a></li>
+                                        <li><a href="#who-to-bring">Can I bring my family?</a></li>
+                                        <li><a href="#family-or-friends-responsibilities">Will my family members also have to make a presentation or a workshop?</a></li>
+                                        <li><a href="#organizers">Who is an organiser of the event?</a></li>
+                        </ul>
+<h4>About presentations and workshops</h4>
+        <ul>
+                                        <li><a href="#presentation-topics">What are the possible presentation topics?</a></li>
+                                        <li><a href="#time-given">How long should a presentation take?</a></li>
+                                        <li><a href="#talk-language">In what language can I do a presentation?</a></li>
+                                        <li><a href="#programming-topics">Does a presentation have to be related to programming?</a></li>
+                                        <li><a href="#stages">What’s the difference among the stages?</a></li>
+                                        <li><a href="#workshop-organisers">How many people can organise a workshop?</a></li>
+                                        <li><a href="#projectors">Will there be a projector?</a></li>
+                                        <li><a href="#computers">Do I need to bring my own laptop?</a></li>
+                                        <li><a href="#photo-upload">How do I upload my photo next to my presentation?</a></li>
+                        </ul>
+<h4>About volunteering</h4>
+        <ul>
+                                        <li><a href="#volunteer-job">What do volunteers do at the event?</a></li>
+                                        <li><a href="#responsibilities">What will my responsibilities be?</a></li>
+                                        <li><a href="#requirements-for-volunteering">What are the requirements for volunteers?</a></li>
+                                        <li><a href="#free-time">Will I have some free time to enjoy the event?</a></li>
+                        </ul>
+<h4>Other questions</h4>
+        <ul>
+                                        <li><a href="#sponsorship">What do I have to do if I want to be a sponsor or offer any other support?</a></li>
+                                        <li><a href="#other-questions">Have other questions?</a></li>
+                        </ul>
+        <hr>
+<h1>General info</h1>
+<h2 id="what-is-nta">What does &quot;No Trolls Allowed&quot; mean?</h2>
+<p>The name represents the main idea of the event — no trolls wanted here. Only people who want to share their knowledge and learn something from others.</p>
+<h2 id="what-is-troll">What is a troll?</h2>
+<p>We refer to an internet troll here. According to Wikipedia, <p><italic>In Internet slang, a troll is a person who starts quarrels or upsets people on the Internet to distract and sow discord by posting inflammatory and digressive, extraneous, or off-topic messages in an online community (such as a newsgroup, forum, chat room, or blog) with the intent of provoking readers into displaying emotional responses and normalizing tangential discussion, whether for the troll`s amusement or a specific gain.</italic></p></p>
+<h2 id="ticket-cost">How much does a ticket cost?</h2>
+<p>NTA is free of charge, the only condition of participation is to do either a presentation, a workshop or become a volunteer. It’s kind of a precaution from trolls to make sure not only listeners attend the event.</p>
+<h2 id="event-agenda">What is the agenda of the event?</h2>
+<p><strong>Wednesday.</strong> Gathering, setting up the tents, getting to know each other.</br><strong>Thursday.</strong> Continue getting to know each other, do various activities.</br><strong>Friday.</strong> Registration of the presentations starts. We listen to first presentations and at the end of the day we’re partying at a concert. </br><strong>Saturday.</strong> Whole day of presentations. In the previous events, presentations lasted until 2 AM, so get energised during the day!</br><strong>Sunday.</strong> Most of the tents are dedicated to workshops. If there are some presentations remaining, we continue with them. In the evening, we clean up the campsite, say goodbye and go home. </br></br>Registration of presentations is organised based on <a href="https://en.wikipedia.org/wiki/BarCamp#Structure_and_participatory_process"> BarCamp principle</a>. It means that the speakers in the campsite choose when they want to do the presentation by themselves. You can choose from any slot available. Timetables of workshops, food and other activities are also available at the campsite.</p>
+<h2 id="wi-fi">Will there be a Wi-Fi?</h2>
+<p>Yes. We just ask you not to download large files.</p>
+<h2 id="electricity">Will there be electricity?</h2>
+<p>Yes. Don’t forget to take care of an extension cord.</p>
+<h2 id="food">Will there be something to eat?</h2>
+<p>Thanks to our amazing friends and sponsors there is always some food. However, be aware that since the final number of participants may vary, there is no guarantee that there’s enough food for everyone. So please don’t forget to take care of yourself too — bring something to grill (there’s always equipment for that), take some snacks and drinks, and you’ll be just fine!</p>
+<h2 id="what-to-bring">What things do I need to bring?</h2>
+<p>NTA is an open-air event so don’t forget to prepare well for a few days in the nature. We suggest taking these things:</br><ul><li>a tent, a sleeping bag and other things for you to feel comfortable in the woods</li><li>a computer and other similar gadgets (don’t forget your chargers!)</li><li>an extension cord</li><li>a router if you think you might need it for a workshop or gaming</li><li>food, drinks and things to store/prepare them in, like grill, dishes, cooling bag, etc. Please be considerate of others and don’t bring any kind of glass with you</li><li>trash bags</li><li>appropriate clothing depending on the weather forecast (rain boots and a raincoat are always a smart choice!)</li><li>insect repellents</li><li>games</li></ul></p>
+<h2 id="how-to-come">How to get to the campsite?</h2>
+<p>The event takes place at a campsite “Pusiasalis” which is 10 km from Trakai.</br>Exact coordinates are 54.657602, 24.984814</br>Website for more info: <a href="http://www.verube.lt">www.verube.lt</a></br>How to get from:</br><ul><li><a href="https://www.google.lt/maps/dir/Vilnius/Verubė+-+kaimo+turizmo+stovykla,+Dvaro+g.,+21142/@54.6672052,25.0475178,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x46dd93fb5c6408f5:0x400d18c70e9dc40!2m2!1d25.2796514!2d54.6871555!1m5!1m1!1s0x46ddf326dc8c9c37:0x23ff0510e2c8a97f!2m2!1d24.9811077!2d54.6568664?hl=lt">Vilnius</a></li><li><a href="https://www.google.lt/maps/dir/Kaunas/Verubė+-+kaimo+turizmo+stovykla,+Dvaro+g.,+21142/@54.7847771,24.1756336,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x46e72270b167d343:0x614bd1e0c7378bbc!2m2!1d23.9035965!2d54.8985207!1m5!1m1!1s0x46ddf326dc8c9c37:0x23ff0510e2c8a97f!2m2!1d24.9811077!2d54.6568664?hl=lt">Kaunas</a></li><li><a href="https://www.google.lt/maps/dir/Trakai/Verubė+-+kaimo+turizmo+stovykla,+Dvaro+g.,+21142/@54.6343367,24.9538191,13z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x46ddf374628607db:0xfe90f5881befe3d9!2m2!1d24.9346894!2d54.6379113!1m5!1m1!1s0x46ddf326dc8c9c37:0x23ff0510e2c8a97f!2m2!1d24.9811077!2d54.6568664?hl=lt">Trakai</a></li></ul></p>
+<h2 id="nearest-supermarket">Where is the nearest supermarket?</h2>
+<p>At the campsite, you won’t be able to buy food or drinks and the nearest supermarket is <a href="https://www.google.lt/maps/dir/Verub%C4%97+-+kaimo+turizmo+stovykla,+Dvaro+g.,+21142/Maxima+X,+prekybos+centras,+Maxima+LT,+Gele%C5%BEinkelio+gatv%C4%97,+Lentvaris/@54.647486,24.9857074,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x46ddf326dc8c9c37:0x23ff0510e2c8a97f!2m2!1d24.9811077!2d54.6568664!1m5!1m1!1s0x46ddf2a65a3e0773:0xbe6933a74c112f4e!2m2!1d25.0273003!2d54.6418449?hl=lt">5 km away, in Lentvaris. </a></p>
+<h2 id="who-to-bring">Can I bring my family?</h2>
+<p>Anyone doing a presentation or a workshop can bring their family or a friend. Think of NTA as a picnic or camping in the nature. However, if your family member has four legs and sharp teeth, make sure other participants will be able to enjoy the event too. Also, be aware that there are small kids on camp.</p>
+<h2 id="family-or-friends-responsibilities">Will my family members also have to make a presentation or a workshop?</h2>
+<p>It would be perfect if they could, but you can use your +1 card and let them enjoy the event without any additional responsibilities.</p>
+<h2 id="organizers">Who is an organiser of the event?</h2>
+<p>NTA is organised by all the participants. But for gathering everyone in one place a responsible party is a non-profit organisation <a href="http://usergroups.lt/">VšĮ "Programuotojai"</a>.</br>Company code: 303307623</br>Address: J. Galvydžio g. 5, LT-08236 Vilnius.</p>
+<h1>About presentations and workshops</h1>
+        <h2 id="presentation-topics">What are the possible presentation topics?</h2>
+        <p>Topics can vary: from food preparation to telepathic methods to open beer bottles. When choosing a presentation topic think about the audience which can also be very different. Don’t forget that there can be people who do not work in the IT sector. However, this doesn’t mean you can’t prepare any technical presentations but try not to limit yourselves to that. If you think that you don’t have anything to talk about, you’ve probably forgotten that things you know might not be familiar to others. The only request — don’t present business ideas, your startups or anything commercial. </p>
+        <h2 id="time-given">How long should a presentation take?</h2>
+        <p>Your presentation and Q&A from the audience should take 30 minutes.</p>
+        <h2 id="talk-language">In what language can I do a presentation?</h2>
+        <p>The main event language is Lithuanian, however, there are no restrictions to do a presentation in another language (English is preferred, of course). If you want to do a presentation in another language, just specify the language next to your topic, e.g., by adding [EN].</p>
+        <h2 id="programming-topics">Does a presentation have to be related to programming?</h2>
+        <p>No. We recommend not to limit yourselves to a narrow area as our audience is very different and you may want to make your presentation interesting to as wide audience as possible.</p>
+        <h2 id="stages">What’s the difference among the stages?</h2>
+        <p>When registering your presentation you will have to choose a stage. Stages are divided according to the topics so that the listeners could easily choose which stage to choose based on their interest. Every stage has a limit of speakers to have a balance of different topics. Here are short descriptions of each stage: </br><ul><li><strong>Digital:</strong> everything about computers, programming and other hardcore IT stuff</li><li><strong>Analog:</strong> everything about all other technologies, not related to digital world</li><li><strong>/dev/random:</strong> everything that’s remaining — arts, lifestyle, etc.</li></ul></p>
+        <h2 id="workshop-organisers">How many people can organise a workshop?</h2>
+        <p>Workshops usually require more input so they can be organised by several people. In this case, none of them will have to do a presentation.</p>
+        <h2 id="projectors">Will there be a projector?</h2>
+        <p>Yes, every stage where presentations take place has a projector.</p>
+        <h2 id="computers">Do I need to bring my own laptop?</h2>
+        <p>Depends on your presentation. If you’ll be showing only slides and don’t want to bring your computer, no problem — PDF and PPT presentations will work on our laptops.</p>
+        <h2 id="photo-upload">How do I upload my photo next to my presentation?</h2>
+        <p>Speakers’ photos are automatically taken from <a href="https://www.gravatar.com/">Gravatar</a> website. The photo is recognised based on your email address that you entered when registering your presentation. If a speaker is not registered on the mentioned website, a cute robot is generated from <a href="http://www.robohash.org/">robohash.org</a>.</p>
+<h1>About volunteering</h1>
+        <h2 id="volunteer-job">What do volunteers do at the event?</h2>
+        <p>Volunteers are a part of our cool crew helping to implement smooth organisation and supervision of the event. Volunteers do various kinds of things: help with logistics, registration of the speakers and presentations, stages, campsite infrastructure, etc. Experience, a ticket to the camp, a collectible NTA t-shirt and new friends are just some of the perks that they get when choosing to volunteer!</p>
+        <h2 id="responsibilities">What will my responsibilities be?</h2>
+        <p>There are a few different teams of volunteers: from general camp supervision to taking care of presentation stages or info-desk. You will be able to choose your preferred activities in the volunteer registration form and we will try to take your choices into consideration, however, be aware that we might not be able to grant everyone’s wishes. Nevertheless, we can guarantee you that each position has its own perks!</p>
+        <h2 id="requirements-for-volunteering">What are the requirements for volunteers?</h2>
+        <p>There are a few things needed for you to be a volunteer. First, you have to be over 20 years old to be able to take care of yourself :) Secondly, you should be able to participate in the entire event – from Wednesday/Thursday till Sunday. It’s the only way to experience NTA as it’s meant to! Other than that, we hope you have a strong sense of responsibility and are a team player!</p>
+        <h2 id="free-time">Will I have some free time to enjoy the event?</h2>
+        <p>Every volunteer has their responsibilities and work timetable which definitely includes some free time! So don’t worry, it won’t all be just work, you’ll definitely be able to listen to some cool presentations and participate in workshops on your free time.</p>
+<h1>Other questions</h1>
+        <h2 id="sponsorship">What do I have to do if I want to be a sponsor or offer any other support?</h2>
+        <p>Drop us an email at <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a> with your suggestions and let’s discuss how we can help each other. </p>
+        <h2 id="other-questions">Have other questions?</h2>
+        <p>In case you have more questions, suggestions, recommendations or want to join event organisation, write us a letter: <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a></p>
+
+
+                </article>
+                <aside class="col-md-4 col-md-offset-1">
+                    
+                </aside>
+            </div>
+        </div>
+    </div>
+
+        <footer class="footer">
+            <div class="container">
+                <div class="clearfix">
+                    <div class="footer-logo">
+                        <a href="/2019/en/"><img src="/2019/images/logo.png?v4"><br>No Trolls Allowed</a>
+                    </div>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Follow us</dt>
+                        
+                        <dd class="nav-item">
+                            <a href="https://github.com/ntacamp">GitHub</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://www.facebook.com/NoTrollsAllowed">Facebook</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="https://twitter.com/ntacamp">Twitter</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2019/en/privacy">Privacy</a>
+                        </dd>
+                        <dd class="nav-item">
+                            <a href="/2019/en/terms">Terms and conditions</a>
+                        </dd>
+                    </dl>
+                    <dl class="footer-nav">
+                        <dt class="nav-title">Contact us!</dt>
+                        <dd class="nav-item">
+                            <a href="mailto:hi@notrollsallowed.com">hi@notrollsallowed.com</a>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="footer-copyright text-center">No Trolls Allowed &copy; 2024</div>
+            </div>
+        </footer>
+
+        
+        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        
+                            <script src="/2019/js/compiled/all.js?v4"></script>
+        
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41181062-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-41181062-1', {'anonymize_ip': true});
+        </script>
+
+
+    </body>
+</html>
